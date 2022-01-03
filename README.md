@@ -1,3 +1,3 @@
 # dynamic_styling_react
-## Description:
+## Description
 Learning how to style React Components dynamically
